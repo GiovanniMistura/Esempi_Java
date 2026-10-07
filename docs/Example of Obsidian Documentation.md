@@ -1,5 +1,8 @@
 [Home - Developer Documentation](https://docs.obsidian.md/Home)
 
 This repo contains examples of:
-![java logo](../images/java_logo.png)
+
+<img src="../images/java_logo.png" alt="java logo" width="500" height="300">
+
+
 
